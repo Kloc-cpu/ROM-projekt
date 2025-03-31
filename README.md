@@ -6,4 +6,5 @@ Vsebuje projekt, za predmet Računalniška Orodja v Matematiki na UL FMF za leto
 Načrt dela:
 
 Pridobitev podatkov,
+
 Primeranje podatkov o ocenah (predmetih), ter zapravljenemu denarju, skozi države.
