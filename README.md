@@ -2,7 +2,7 @@
 
 Uspešnost izobraževalnega sistema<br>
 Vsebuje projekt, za predmet Računalniška Orodja v Matematiki na UL FMF za leto 2024/25. V Mathematici bom analiziral in primerjal podatke o izobraževalnem sistemu v Sloveniji, ter tujih državah glede na GDP, ki ga porabi za sistem.
-Podatki so bili pridobljeni z [ourworldindata.org](ourworldindata.org) .
+Podatki so bili pridobljeni z [https://ourworldindata.org/](https://ourworldindata.org/) .
 
 Načrt dela:
 
